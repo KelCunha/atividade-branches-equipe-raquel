@@ -1,19 +1,22 @@
-# 🪴 Atividade Git – Branches e Pull Requests
+# 💻 Atividade Git – Projeto Java com Branches
 
-Este repositório foi criado como parte da **atividade prática de Git e GitHub**.  
-O objetivo é exercitar o uso de **branches**, **commits**, **pull requests (PRs)** e **merge** de forma organizada, simulando um trabalho em equipe.
+Este projeto foi desenvolvido para a atividade prática de **Git e GitHub**, utilizando código em **Java** para simular o trabalho em equipe com o uso de **branches**, **commits** e **Pull Requests**.
 
 ---
 
-## 🧠 Objetivos da Atividade
-
-- Criar e gerenciar um repositório no GitHub.  
-- Trabalhar com diferentes **branches** representando funcionalidades.  
-- Fazer **commits** significativos e descritivos.  
-- Criar **Pull Requests (PRs)** e integrá-los ao branch principal.  
-- Praticar o fluxo completo de desenvolvimento colaborativo.
+## 🧠 Objetivo
+- Praticar o uso de **Git e GitHub** em um projeto Java.
+- Criar e trabalhar com **branches de funcionalidades**.
+- Realizar **Pull Requests** e **merge** simulando um fluxo de equipe.
 
 ---
 
 ## 🗂 Estrutura do Projeto
+  atividade-branches-equipe-raquel/
+    │
+    ├── README.md
+    └── src/
+    ├── Main.java
+    ├── FraseMotivacional.java
+    └── Calculadora.java
 
