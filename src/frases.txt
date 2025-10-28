@@ -1,5 +1,6 @@
-public class Frase {
-    public String getFrase() {
-        return "A prática leva à perfeição!";
-    }
-}
+Frase base do projeto.
+A prática leva à perfeição.
+Git é essencial para o trabalho em equipe!
+
+Estou aprendendo a usar o git.
+O git é necessário no mercado de trabalho.
