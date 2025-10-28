@@ -1,0 +1,5 @@
+public class Frase {
+    public String getFrase() {
+        return "A prática leva à perfeição!";
+    }
+}
